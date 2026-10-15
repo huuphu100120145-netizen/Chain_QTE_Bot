@@ -18,3 +18,5 @@ chcp 65001 >nul
 start "QTE Bot" cmd /c "python Chain_QTE_Bot.py"
 
 exit
+
+This is a personal project of mine. It uses the Gemini Flash and Gemini Flash Lite AI models.
